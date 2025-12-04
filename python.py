@@ -12,3 +12,4 @@ import datetime
 import time
 
 from currencyapinet.currency import Currency
+
