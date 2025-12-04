@@ -1,2 +1,2 @@
 # arty_attempt
-learner pupose
+learner purpose
